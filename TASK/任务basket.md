@@ -25,13 +25,14 @@ Apple Watch 产品页 https://www.apple.com/cn/watch/
 （1） 利用 GitPage 建立个人静态网站
 
 3.响应式简历制作。
-基本的html--->加上css--->适配
 
 建立版式在 WESharp-2017/basket/material/resume，或者自己设计
 
-制作的简历，适配至少以下三种设备：
-iPhone 6
+  基本的html--->加上css--->适配
 
-iPad mini 4
+  制作的简历，适配至少以下三种设备：
+  iPhone 6
 
-14寸笔记本电脑
+  iPad mini 4
+
+  14寸笔记本电脑
