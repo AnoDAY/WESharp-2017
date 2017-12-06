@@ -19,12 +19,14 @@ Apple Watch 产品页 https://www.apple.com/cn/watch/
 # 第二次前端小组任务
 1.纯CSS加载动画制作。
 
-根据项目目录  中的gif 图完成9个加载动画的制作。
+根据项目目录 WESharp-2017/basket/material/css 中的gif 图完成9个加载动画的制作。
 
-2.学习GitHub相关内容。
+2.学习GitHub相关内容
+（1） 利用 GitPage 建立个人静态网站
 
 3.响应式简历制作。
-建立版式在 ，或者自己设计
+基本的html--->加上css--->适配
+建立版式在 WESharp-2017/basket/material/resume，或者自己设计
 制作的简历，适配至少以下三种设备：
 
 iPhone 6
