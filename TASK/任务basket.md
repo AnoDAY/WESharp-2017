@@ -42,9 +42,11 @@ Apple Watch 产品页 https://www.apple.com/cn/watch/
 1. 完成task1 + task2，不要松懈，少年们加油！
 2. 完成春招网页 *or* WESharp官网，
 
-   [Pinterest ： web design](https://www.pinterest.com/search/pins/?q=web%20design)，找 1 个自己喜欢的网页设计
-   
-3. **学习JavaScript**，[JavaScript高级程序设计（第3版）pdf](http://pan.baidu.com/s/1ntHnZbb)
-- 1.要求每周3-5章，
+3. [Pinterest ： web design](https://www.pinterest.com/search/pins/?q=web%20design)，找 1 个自己喜欢的网页设计
+   
+4. **学习JavaScript**，[JavaScript高级程序设计（第3版）pdf](http://pan.baidu.com/s/1ntHnZbb)
+- 1.要求每周4-6章，
 - 2.记录读书笔记，每周日提交笔记到小组群， 
-- 3.每人自选2-3章组会或大会分享，假期前两次组会或大会进行
+- 3.每人自选2-3章，在组会或大会分享，假期前两次组会或大会进行
+
+5. 在系统中安装 node.js 的最新 LTS 版本；并简单了解 npm 包管理工具的用法；安装 yarn, 并阅读 yarn 的新手指南
