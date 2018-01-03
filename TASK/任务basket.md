@@ -40,7 +40,9 @@ Apple Watch 产品页 https://www.apple.com/cn/watch/
 
 # 2018寒假前端小组任务
 1. 完成task1 + task2，不要松懈，少年们加油！
-2. 完成春招网页 *or* WESharp官网，
+2. 完成春招网页[design](https://modao.cc/app/9b1EsRRm6JyCnaSTKscZE1eYc78YBvR#screen=s82E32A09601503127846912)
+
+*or* WESharp官网，
 
 3. [Pinterest ： web design](https://www.pinterest.com/search/pins/?q=web%20design)，找 1 个自己喜欢的网页设计
    
