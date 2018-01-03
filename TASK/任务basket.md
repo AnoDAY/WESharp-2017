@@ -36,3 +36,9 @@ Apple Watch 产品页 https://www.apple.com/cn/watch/
   iPad mini 4
 
   14寸笔记本电脑
+
+#2018寒假前端小组任务
+1. 完成task1 + task2，不要松懈，少年们加油！
+2. - 完成春招网页 *or* WESharp官网，
+   - [Pinterest ： web design](https://www.pinterest.com/search/pins/?q=web%20design)
+3. **学习JavaScript**，[JavaScript高级程序设计（第3版）pdf](http://pan.baidu.com/s/1ntHnZbb)
